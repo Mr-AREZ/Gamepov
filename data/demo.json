@@ -1,0 +1,437 @@
+{
+  "games": [
+    {
+      "id": "g1",
+      "slug": "elden-ring",
+      "title": "Elden Ring",
+      "cover_url": "",
+      "description": "Open-world action RPG. Boss fights, builds and no-hit attempts.",
+      "genre": "Action RPG",
+      "platform": "PC",
+      "tags": [
+        "RPG",
+        "Souls-like",
+        "No-hit"
+      ],
+      "created_at": "2024-03-01T10:00:00Z"
+    },
+    {
+      "id": "g2",
+      "slug": "counter-strike-2",
+      "title": "Counter-Strike 2",
+      "cover_url": "",
+      "description": "Competitive tactical shooter. Ranked climbs and clutch moments.",
+      "genre": "FPS",
+      "platform": "PC",
+      "tags": [
+        "FPS",
+        "Competitive",
+        "Ranked"
+      ],
+      "created_at": "2024-03-01T10:00:00Z"
+    },
+    {
+      "id": "g3",
+      "slug": "hades-ii",
+      "title": "Hades II",
+      "cover_url": "",
+      "description": "Roguelike dungeon crawler with a mythological twist.",
+      "genre": "Roguelike",
+      "platform": "PC",
+      "tags": [
+        "Roguelike",
+        "Action",
+        "Story"
+      ],
+      "created_at": "2024-03-01T10:00:00Z"
+    },
+    {
+      "id": "g4",
+      "slug": "hollow-knight",
+      "title": "Hollow Knight",
+      "cover_url": "",
+      "description": "Atmospheric metroidvania in a vast underground kingdom.",
+      "genre": "Metroidvania",
+      "platform": "PC",
+      "tags": [
+        "Metroidvania",
+        "Platformer",
+        "Hard"
+      ],
+      "created_at": "2024-03-01T10:00:00Z"
+    },
+    {
+      "id": "g5",
+      "slug": "valorant",
+      "title": "Valorant",
+      "cover_url": "",
+      "description": "5v5 character-based tactical shooter.",
+      "genre": "FPS",
+      "platform": "PC",
+      "tags": [
+        "FPS",
+        "Competitive",
+        "Agents"
+      ],
+      "created_at": "2024-03-01T10:00:00Z"
+    }
+  ],
+  "streams": [
+    {
+      "id": "s1",
+      "slug": "malenia-no-hit-attempt",
+      "title": "Malenia, Blade of Miquella — no-hit attempt",
+      "description": "Full attempt at Malenia without taking a single hit. Chapters: 00:00 Intro, 12:40 Phase one, 41:10 Waterfowl Dance, 1:12:00 Phase two.",
+      "game_id": "g1",
+      "kind": "stream",
+      "source": "youtube",
+      "video_ref": "jNQXAC9IVRw",
+      "thumbnail_url": "",
+      "duration_seconds": 8048,
+      "published_at": "2026-11-08T19:00:00Z",
+      "is_published": true,
+      "created_at": "2026-11-08T19:00:00Z"
+    },
+    {
+      "id": "s2",
+      "slug": "global-elite-ranked-climb",
+      "title": "Ranked climb to Global Elite",
+      "description": "Three hours of ranked matchmaking with chat. Mirage, Inferno and Ancient.",
+      "game_id": "g2",
+      "kind": "stream",
+      "source": "youtube",
+      "video_ref": "jNQXAC9IVRw",
+      "thumbnail_url": "",
+      "duration_seconds": 10961,
+      "published_at": "2026-11-05T18:30:00Z",
+      "is_published": true,
+      "created_at": "2026-11-05T18:30:00Z"
+    },
+    {
+      "id": "s3",
+      "slug": "hades-ii-first-clear",
+      "title": "Hades II — first clear attempt",
+      "description": "Trying to finish the run on the first attempt with the new weapons.",
+      "game_id": "g3",
+      "kind": "stream",
+      "source": "youtube",
+      "video_ref": "jNQXAC9IVRw",
+      "thumbnail_url": "",
+      "duration_seconds": 6439,
+      "published_at": "2026-11-02T20:00:00Z",
+      "is_published": true,
+      "created_at": "2026-11-02T20:00:00Z"
+    },
+    {
+      "id": "s4",
+      "slug": "shadow-of-the-erdtree-part-3",
+      "title": "Shadow of the Erdtree DLC — part 3",
+      "description": "Exploring the Land of Shadow, bosses and secrets.",
+      "game_id": "g1",
+      "kind": "stream",
+      "source": "youtube",
+      "video_ref": "jNQXAC9IVRw",
+      "thumbnail_url": "",
+      "duration_seconds": 12067,
+      "published_at": "2026-10-28T17:00:00Z",
+      "is_published": true,
+      "created_at": "2026-10-28T17:00:00Z"
+    },
+    {
+      "id": "s5",
+      "slug": "hollow-knight-pantheon-run",
+      "title": "Hollow Knight — Pantheon of Hallownest",
+      "description": "Attempting the Pantheon of Hallownest back to back.",
+      "game_id": "g4",
+      "kind": "stream",
+      "source": "youtube",
+      "video_ref": "jNQXAC9IVRw",
+      "thumbnail_url": "",
+      "duration_seconds": 9300,
+      "published_at": "2026-10-24T19:30:00Z",
+      "is_published": true,
+      "created_at": "2026-10-24T19:30:00Z"
+    },
+    {
+      "id": "s6",
+      "slug": "valorant-radiant-grind",
+      "title": "Valorant — Radiant grind, night 4",
+      "description": "Immortal to Radiant, night four.",
+      "game_id": "g5",
+      "kind": "stream",
+      "source": "youtube",
+      "video_ref": "jNQXAC9IVRw",
+      "thumbnail_url": "",
+      "duration_seconds": 7200,
+      "published_at": "2026-10-20T21:00:00Z",
+      "is_published": true,
+      "created_at": "2026-10-20T21:00:00Z"
+    },
+    {
+      "id": "s7",
+      "slug": "mohg-bleed-build",
+      "title": "Mohg full run, bleed build",
+      "description": "Testing a bleed build against Mohg, Lord of Blood.",
+      "game_id": "g1",
+      "kind": "stream",
+      "source": "youtube",
+      "video_ref": "jNQXAC9IVRw",
+      "thumbnail_url": "",
+      "duration_seconds": 7113,
+      "published_at": "2026-10-15T18:00:00Z",
+      "is_published": true,
+      "created_at": "2026-10-15T18:00:00Z"
+    },
+    {
+      "id": "s8",
+      "slug": "co-op-night-with-chat",
+      "title": "Co-op night with chat",
+      "description": "Viewer games and co-op chaos.",
+      "game_id": "g3",
+      "kind": "stream",
+      "source": "youtube",
+      "video_ref": "jNQXAC9IVRw",
+      "thumbnail_url": "",
+      "duration_seconds": 15160,
+      "published_at": "2026-10-10T19:00:00Z",
+      "is_published": true,
+      "created_at": "2026-10-10T19:00:00Z"
+    },
+    {
+      "id": "s9",
+      "slug": "level-one-melee-only",
+      "title": "Melee-only challenge, level 1",
+      "description": "A level-one run using only melee weapons.",
+      "game_id": "g1",
+      "kind": "stream",
+      "source": "youtube",
+      "video_ref": "jNQXAC9IVRw",
+      "thumbnail_url": "",
+      "duration_seconds": 7512,
+      "published_at": "2026-10-02T18:00:00Z",
+      "is_published": true,
+      "created_at": "2026-10-02T18:00:00Z"
+    },
+    {
+      "id": "s10",
+      "slug": "cs2-aim-training-warmup",
+      "title": "CS2 warm-up and aim routine",
+      "description": "Routine I use before every ranked session.",
+      "game_id": "g2",
+      "kind": "stream",
+      "source": "youtube",
+      "video_ref": "jNQXAC9IVRw",
+      "thumbnail_url": "",
+      "duration_seconds": 3600,
+      "published_at": "2026-09-28T17:00:00Z",
+      "is_published": true,
+      "created_at": "2026-09-28T17:00:00Z"
+    },
+    {
+      "id": "c1",
+      "slug": "perfect-parry-malenia",
+      "title": "Perfect parry on Malenia",
+      "description": "The cleanest parry of the night.",
+      "game_id": "g1",
+      "kind": "clip",
+      "source": "youtube",
+      "video_ref": "jNQXAC9IVRw",
+      "thumbnail_url": "",
+      "duration_seconds": 42,
+      "published_at": "2026-11-08T21:10:00Z",
+      "is_published": true,
+      "created_at": "2026-11-08T21:10:00Z"
+    },
+    {
+      "id": "c2",
+      "slug": "1v4-clutch-mirage",
+      "title": "1v4 clutch on Mirage",
+      "description": "Chat could not believe this one.",
+      "game_id": "g2",
+      "kind": "clip",
+      "source": "youtube",
+      "video_ref": "jNQXAC9IVRw",
+      "thumbnail_url": "",
+      "duration_seconds": 58,
+      "published_at": "2026-11-05T20:05:00Z",
+      "is_published": true,
+      "created_at": "2026-11-05T20:05:00Z"
+    },
+    {
+      "id": "c3",
+      "slug": "speedrun-skip-found",
+      "title": "Speedrun skip found",
+      "description": "An unexpected skip discovered live.",
+      "game_id": "g3",
+      "kind": "highlight",
+      "source": "youtube",
+      "video_ref": "jNQXAC9IVRw",
+      "thumbnail_url": "",
+      "duration_seconds": 75,
+      "published_at": "2026-11-02T21:40:00Z",
+      "is_published": true,
+      "created_at": "2026-11-02T21:40:00Z"
+    },
+    {
+      "id": "c4",
+      "slug": "knight-no-damage-boss",
+      "title": "No-damage boss in 90 seconds",
+      "description": "Quick and clean.",
+      "game_id": "g4",
+      "kind": "highlight",
+      "source": "youtube",
+      "video_ref": "jNQXAC9IVRw",
+      "thumbnail_url": "",
+      "duration_seconds": 95,
+      "published_at": "2026-10-24T22:00:00Z",
+      "is_published": true,
+      "created_at": "2026-10-24T22:00:00Z"
+    },
+    {
+      "id": "c5",
+      "slug": "ace-on-ascent",
+      "title": "Ace on Ascent",
+      "description": "Five kills in one round.",
+      "game_id": "g5",
+      "kind": "clip",
+      "source": "youtube",
+      "video_ref": "jNQXAC9IVRw",
+      "thumbnail_url": "",
+      "duration_seconds": 33,
+      "published_at": "2026-10-20T22:30:00Z",
+      "is_published": true,
+      "created_at": "2026-10-20T22:30:00Z"
+    },
+    {
+      "id": "c6",
+      "slug": "funny-fall-glitch",
+      "title": "Funny fall glitch",
+      "description": "Physics had other plans.",
+      "game_id": "g1",
+      "kind": "clip",
+      "source": "youtube",
+      "video_ref": "jNQXAC9IVRw",
+      "thumbnail_url": "",
+      "duration_seconds": 27,
+      "published_at": "2026-10-15T19:20:00Z",
+      "is_published": true,
+      "created_at": "2026-10-15T19:20:00Z"
+    }
+  ],
+  "schedule": [
+    {
+      "id": "sc1",
+      "title": "Elden Ring — Shadow of the Erdtree bosses",
+      "game_id": "g1",
+      "starts_in_hours": 6,
+      "notes": "Boss practice with viewer suggestions."
+    },
+    {
+      "id": "sc2",
+      "title": "Counter-Strike 2 — Ranked",
+      "game_id": "g2",
+      "starts_in_hours": 30,
+      "notes": "Going for Global Elite."
+    },
+    {
+      "id": "sc3",
+      "title": "Hades II — Hammer-only run",
+      "game_id": "g3",
+      "starts_in_hours": 54,
+      "notes": ""
+    },
+    {
+      "id": "sc4",
+      "title": "Community game night",
+      "game_id": null,
+      "starts_in_hours": 78,
+      "notes": "Join the Discord for the lobby code."
+    }
+  ],
+  "posts": [
+    {
+      "id": "p1",
+      "slug": "welcome-to-the-new-site",
+      "title": "Welcome to the new site",
+      "excerpt": "Every stream, clip and highlight now lives in one searchable archive.",
+      "body": "Welcome!\n\nThis site is the new home for every stream I do. You can browse by game, search by title and jump straight to the clip you remember.\n\n## What is new\n\n- A full archive of past streams\n- Clips and highlights in their own section\n- A schedule so you never miss a stream\n\nThanks for watching.",
+      "cover_url": "",
+      "published_at": "2026-11-01T12:00:00Z",
+      "is_published": true
+    },
+    {
+      "id": "p2",
+      "slug": "my-streaming-setup-2026",
+      "title": "My streaming setup in 2026",
+      "excerpt": "Hardware, software and the settings I use to stream.",
+      "body": "A quick tour of the gear.\n\n## Hardware\n\nA fast CPU matters more than you think for streaming and gaming at once.\n\n## Software\n\nOBS Studio with a simple scene layout.",
+      "cover_url": "",
+      "published_at": "2026-10-12T12:00:00Z",
+      "is_published": true
+    }
+  ],
+  "achievements": [
+    {
+      "id": "a1",
+      "title": "Twitch Affiliate",
+      "description": "Reached affiliate status",
+      "icon": "🎖️",
+      "achieved_at": "2025-02-14"
+    },
+    {
+      "id": "a2",
+      "title": "Malenia no-hit",
+      "description": "Defeated Malenia without taking damage",
+      "icon": "⚔️",
+      "achieved_at": "2026-11-08"
+    },
+    {
+      "id": "a3",
+      "title": "Global Elite",
+      "description": "Reached the top rank in CS2 matchmaking",
+      "icon": "🏆",
+      "achieved_at": "2026-11-05"
+    },
+    {
+      "id": "a4",
+      "title": "1,000 hours streamed",
+      "description": "A thousand hours live on camera",
+      "icon": "⏱️",
+      "achieved_at": "2026-06-20"
+    }
+  ],
+  "sponsors": [
+    {
+      "id": "sp1",
+      "name": "Example Gear Co.",
+      "url": "https://example.com",
+      "logo_url": "",
+      "sort_order": 1
+    },
+    {
+      "id": "sp2",
+      "name": "Sample Energy",
+      "url": "https://example.com",
+      "logo_url": "",
+      "sort_order": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": "cm1",
+      "stream_id": "s1",
+      "user_id": "u-demo",
+      "author_name": "Viewer One",
+      "body": "That Waterfowl Dance dodge was insane!",
+      "created_at": "2026-11-09T08:00:00Z"
+    }
+  ],
+  "settings": {
+    "live": {
+      "is_live": false,
+      "title": "",
+      "game": "",
+      "url": ""
+    }
+  }
+}

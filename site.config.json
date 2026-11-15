@@ -1,0 +1,50 @@
+{
+  "siteName": "Gamepov",
+  "siteUrl": "https://YOUR-USERNAME.github.io/YOUR-REPO",
+  "defaultLang": "en",
+  "githubRepo": "",
+  "customDomain": "",
+  "supabase": {
+    "url": "",
+    "anonKey": ""
+  },
+  "buckets": { "videos": "videos", "images": "images" },
+  "youtubeAutoThumbnails": true,
+  "theme": {
+    "accent": "#E8650A",
+    "accentLight": "#FF8A2B",
+    "bg": "#0A0A0A",
+    "page": "#121212",
+    "header": "#1C1A18"
+  },
+  "profile": {
+    "name": "Nova Strike",
+    "tagline": "Boss fights, no-hit runs and late-night ranked grinds.",
+    "bio": "I'm Nova — a variety streamer who loves punishing action games, competitive shooters and the occasional cozy roguelike. Every stream ends up here as a searchable archive, so you can jump straight to the boss, the clutch or the funny moment.",
+    "avatar": "",
+    "location": "Tehran",
+    "email": "hello@example.com"
+  },
+  "links": {
+    "twitch": "https://twitch.tv/",
+    "youtube": "https://youtube.com/",
+    "discord": "https://discord.gg/",
+    "twitter": "https://x.com/",
+    "instagram": "https://instagram.com/",
+    "tiktok": "https://tiktok.com/"
+  },
+  "support": [
+    { "label": "Ko-fi", "url": "https://ko-fi.com/", "note": "One-time tips, no account needed" },
+    { "label": "Patreon", "url": "https://patreon.com/", "note": "Monthly support with early access to VODs" },
+    { "label": "Buy Me a Coffee", "url": "https://buymeacoffee.com/", "note": "A small thank-you" }
+  ],
+  "setup": [
+    { "category": "PC", "name": "Ryzen 7 7800X3D · 32 GB RAM" },
+    { "category": "GPU", "name": "RTX 4070 Super" },
+    { "category": "Monitor", "name": "27\" 1440p 165 Hz" },
+    { "category": "Mouse", "name": "Lightweight wireless mouse" },
+    { "category": "Keyboard", "name": "75% hot-swap mechanical" },
+    { "category": "Mic", "name": "XLR dynamic mic + audio interface" },
+    { "category": "Software", "name": "OBS Studio" }
+  ]
+}

@@ -1,0 +1,1 @@
+window.GAMEPOV = {"siteName":"Gamepov","defaultLang":"en","supabaseUrl":"","anonKey":"","buckets":{"videos":"videos","images":"images"},"githubRepo":"","live":{"is_live":false,"title":"","game":"","url":""},"demo":true,"local":true};

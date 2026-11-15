@@ -1,0 +1,20 @@
+{
+  "name": "gamepov",
+  "version": "1.0.0",
+  "description": "Gamepov \u2014 a personal streaming-archive website template for gamers (static pages + Supabase backend).",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "node scripts/build.js",
+    "serve": "node scripts/serve.js",
+    "dev": "node scripts/build.js && node scripts/serve.js",
+    "mock": "node tests/mock-supabase.js",
+    "test": "node tests/unit.test.js && node tests/e2e.test.cjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.48.0"
+  }
+}
